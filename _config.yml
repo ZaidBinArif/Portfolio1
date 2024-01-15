@@ -5,3 +5,4 @@ show_downloads: false
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag
+  - jekyll-remote-theme
