@@ -3,3 +3,5 @@ logo: /assets/Profile_img.png
 description: Visionary coder, passionate about impactful solutions. Thrives on turning innovative ideas into reality through fast learning and code.
 show_downloads: false
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
