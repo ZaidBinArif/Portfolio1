@@ -44,7 +44,7 @@ SendGrid, aligning with client requirements.
 ## Education
 
 ### National University of Sciences and Technology
-#### Bachelor of Science in Computer Science | CGPA 3.61
+Bachelor of Science in Computer Science | CGPA 3.61/4.00
 
 ## Projects
 
